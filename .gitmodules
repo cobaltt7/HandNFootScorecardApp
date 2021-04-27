@@ -1,0 +1,3 @@
+[submodule "app/src/main/assets/html"]
+	path = app/src/main/assets/html
+	url = https://github.com/RedGuy12/HandNFoot-Scorecard.git
